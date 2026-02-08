@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../BIPES-master"
+		},
+		{
+			"name": "serial:/COM33",
+			"uri": "serial://com33/"
+		}
+	],
+	"settings": {}
+}
